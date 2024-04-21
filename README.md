@@ -18,9 +18,5 @@ Push your code to GitHub
 Host it on Netlify or GitHub pages
 Share the Netlify or GitHub page link and your direct GitHub code link
 
-Submission Link: Click here!
-
-Deadline: 21st April, 2024
-
 The magic is in YOU! Create it!
 
